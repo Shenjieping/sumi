@@ -1,0 +1,37 @@
+{
+  "sumie/index.html": {
+    "resources": [
+      "sumie/lib/swiper/css/swiper-3.4.1.min.css",
+      "sumie/images/aa2.png",
+      "sumie/images/page_6_02.png",
+      "sumie/images/arrow-up.png",
+      "sumie/js/zepto_1.1.3.js",
+      "sumie/images/Waterfall.mp3",
+      "sumie/images/close.png",
+      "sumie/images/my1.png",
+      "sumie/lib/swiper/css/animate.css",
+      "sumie/images/indexElements.png",
+      "sumie/images/page_2_01_02.png",
+      "sumie/images/1122.png",
+      "sumie/images/musicBtn.png",
+      "sumie/js/index.js",
+      "sumie/lib/swiper/js/swiper.animate1.0.2.min.js",
+      "sumie/less/index.css",
+      "sumie/images/page_3_02.png",
+      "sumie/images/page_7_01.png",
+      "sumie/images/name2_01.png",
+      "sumie/images/page_9_01.png",
+      "sumie/images/2121.png",
+      "sumie/lib/swiper/js/swiper-3.4.1.min.js",
+      "sumie/images/bg.png",
+      "sumie/images/indexCloud.png",
+      "sumie/images/w.png",
+      "sumie/lib/css/common.css",
+      "sumie/images/ss.png",
+      "sumie/images/indexBuilding.png",
+      "sumie/images/wo_03.png",
+      "sumie/images/musicBtnOff.png"
+    ],
+    "refer": []
+  }
+}

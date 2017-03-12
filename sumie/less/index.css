@@ -1,0 +1,717 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+body div.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+body div.swiper-container div.swiper-slide {
+  font-size: 18px;
+  background: #fff;
+}
+body div.swiper-container div.first {
+  background-image: url(../images/bg.png);
+  position: relative;
+}
+body div.swiper-container div.first div.bg_1 {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+}
+body div.swiper-container div.first div.bg_1 img {
+  width: 100%;
+  float: left;
+}
+body div.swiper-container div.first div.bg_2 {
+  position: absolute;
+  top: 4%;
+  left: 7%;
+  width: 86%;
+}
+body div.swiper-container div.first div.bg_2 img {
+  width: 100%;
+}
+body div.swiper-container div.first div.bg_3 {
+  position: absolute;
+  top: 12%;
+  left: 6%;
+  width: 78%;
+}
+body div.swiper-container div.first div.bg_3 img {
+  width: 100%;
+}
+body div.swiper-container div.first div.logo {
+  width: 60%;
+  position: absolute;
+  top: 0%;
+  left: 0px;
+}
+body div.swiper-container div.first div.logo img {
+  width: 100%;
+}
+body div.swiper-container div.first div.mysmi {
+  width: 100%;
+  position: absolute;
+  top: 10%;
+  left: 0px;
+}
+body div.swiper-container div.first div.mysmi img {
+  width: 100%;
+}
+body div.swiper-container div.first div.myname {
+  width: 86%;
+  position: absolute;
+  top: 39%;
+  left: 7%;
+}
+body div.swiper-container div.first div.myname img {
+  width: 100%;
+}
+body div.swiper-container div.first div.name {
+  width: 72%;
+  position: absolute;
+  top: 62%;
+  right: 0px;
+}
+body div.swiper-container div.first div.name img {
+  width: 100%;
+}
+body div.swiper-container div.first div.swiper-up {
+  position: absolute;
+  bottom: 10px;
+  left: 41%;
+  width: 13%;
+}
+body div.swiper-container div.first div.swiper-up img {
+  width: 100%;
+}
+body div.swiper-container div.two {
+  background-image: url(../images/bg.png);
+  position: relative;
+}
+body div.swiper-container div.two div.headBg {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #0092d3;
+}
+body div.swiper-container div.two div.headBg img {
+  width: 100%;
+}
+body div.swiper-container div.two div.head {
+  width: 38%;
+  position: absolute;
+  top: 7%;
+  left: 23%;
+}
+body div.swiper-container div.two div.head img {
+  width: 100%;
+}
+body div.swiper-container div.two div.main {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 33%;
+  left: 0%;
+}
+body div.swiper-container div.two div.main div.main_1 {
+  height: auto;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+body div.swiper-container div.two div.main div.main_1 img {
+  width: 26%;
+  height: 30%;
+  margin: 3% 3%;
+}
+body div.swiper-container div.two div.main div.main_1 ul.right {
+  flex: 1;
+  height: auto;
+}
+body div.swiper-container div.two div.main div.main_1 ul.right li {
+  display: block;
+  line-height: 35px;
+}
+body div.swiper-container div.two div.main div.main_2 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+body div.swiper-container div.two div.main div.main_2 h2 {
+  width: 100%;
+  line-height: 40px;
+  color: #00B7FF;
+  text-align: center;
+}
+body div.swiper-container div.two div.main div.main_2 div.proec {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+body div.swiper-container div.two div.main div.main_2 div.proec p {
+  color: #333;
+  font-weight: bold;
+  padding-left: 10px;
+}
+body div.swiper-container div.two div.main div.main_2 div.proec div.decor {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  border: 1px solid #eee;
+  box-shadow: 2px 2px 4px #666;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+body div.swiper-container div.two div.main div.main_2 div.proec div.decor span {
+  display: inline-block;
+  line-height: 22px;
+  padding: 0px 5px;
+}
+body div.swiper-container div.two div.main div.main_2 div.proec div.decor span.left {
+  width: 20px;
+  color: #008800;
+}
+body div.swiper-container div.two div.main div.main_2 div.proec div.decor span.right {
+  flex: 1;
+  color: #999;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack {
+  position: absolute;
+  top: 45px;
+  left: 0px;
+  width: 100%;
+  height: auto;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack div.pack_1 {
+  height: auto;
+  width: 100%;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack div.pack_1 p {
+  color: #333;
+  font-weight: bold;
+  padding-left: 10px;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack div.pack_1 div.decor {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  border: 1px solid #eee;
+  box-shadow: 2px 2px 4px #666;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack div.pack_1 div.decor span {
+  display: inline-block;
+  line-height: 22px;
+  padding: 0px 5px;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack div.pack_1 div.decor span.left {
+  width: 20px;
+  color: #008800;
+}
+body div.swiper-container div.two div.main div.main_2 div.pack div.pack_1 div.decor span.right {
+  flex: 1;
+  color: #999;
+}
+body div.swiper-container div.two div.swiper-up {
+  position: absolute;
+  bottom: 10px;
+  left: 41%;
+  width: 13%;
+}
+body div.swiper-container div.two div.swiper-up img {
+  width: 100%;
+}
+body div.swiper-container div.three {
+  position: relative;
+  background: url(../images/bg.png);
+}
+body div.swiper-container div.three img.bg {
+  width: 100%;
+}
+body div.swiper-container div.three div.head {
+  width: 73%;
+  position: absolute;
+  top: 4%;
+  left: 20%;
+}
+body div.swiper-container div.three div.head img {
+  width: 100%;
+}
+body div.swiper-container div.three div.tack_1 {
+  height: 67px;
+  width: 64%;
+  position: absolute;
+  top: 27%;
+  left: 32%;
+}
+body div.swiper-container div.three div.tack_1 p {
+  line-height: 63px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-size: 20px;
+}
+body div.swiper-container div.three div.delite_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  transform: scale(0);
+  background: #333;
+}
+body div.swiper-container div.three div.delite_1 div {
+  background: #fff url(../images/bg.png);
+  width: 90%;
+  height: 89%;
+  margin: 10% 5%;
+}
+body div.swiper-container div.three div.delite_1 div.delitesub_1 h3 {
+  height: 30px;
+  width: 100%;
+  position: relative;
+  background: #0092D3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body div.swiper-container div.three div.delite_1 div.delitesub_1 h3 span {
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px 10px;
+  color: #fff;
+}
+body div.swiper-container div.three div.delite_1 div.delitesub_1 h3 span:nth-child(1) {
+  height: 30px;
+  width: 30px;
+  background: #00628d;
+}
+body div.swiper-container div.three div.delite_1 div.delitesub_1 h3 img {
+  height: 20px;
+  margin-right: 5px;
+}
+body div.swiper-container div.three div.delite_1 div.delitesub_1 p {
+  line-height: 40px;
+  width: 96%;
+  padding: 0px 9px;
+}
+body div.swiper-container div.three div.tack_2 {
+  height: 67px;
+  width: 64%;
+  position: absolute;
+  top: 43%;
+  left: 32%;
+}
+body div.swiper-container div.three div.tack_2 p {
+  line-height: 63px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-size: 20px;
+}
+body div.swiper-container div.three div.delite_2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  transform: scale(0);
+  background: #333;
+}
+body div.swiper-container div.three div.delite_2 div {
+  background: #fff url(../images/bg.png);
+  width: 90%;
+  height: 89%;
+  margin: 10% 5%;
+}
+body div.swiper-container div.three div.delite_2 div.delitesub_2 h3 {
+  height: 30px;
+  width: 100%;
+  position: relative;
+  background: #0092D3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body div.swiper-container div.three div.delite_2 div.delitesub_2 h3 span {
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px 10px;
+  color: #fff;
+}
+body div.swiper-container div.three div.delite_2 div.delitesub_2 h3 span:nth-child(1) {
+  height: 30px;
+  width: 30px;
+  background: #00628d;
+}
+body div.swiper-container div.three div.delite_2 div.delitesub_2 h3 img {
+  height: 20px;
+  margin-right: 5px;
+}
+body div.swiper-container div.three div.delite_2 div.delitesub_2 p {
+  line-height: 40px;
+  width: 96%;
+  padding: 0px 9px;
+}
+body div.swiper-container div.three div.tack_3 {
+  height: 67px;
+  width: 64%;
+  position: absolute;
+  top: 59%;
+  left: 32%;
+}
+body div.swiper-container div.three div.tack_3 p {
+  line-height: 63px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-size: 20px;
+}
+body div.swiper-container div.three div.delite_3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  transform: scale(0);
+  background: #333;
+}
+body div.swiper-container div.three div.delite_3 div {
+  background: #fff url(../images/bg.png);
+  width: 90%;
+  height: 89%;
+  margin: 10% 5%;
+}
+body div.swiper-container div.three div.delite_3 div.delitesub_3 h3 {
+  height: 30px;
+  width: 100%;
+  position: relative;
+  background: #0092D3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body div.swiper-container div.three div.delite_3 div.delitesub_3 h3 span {
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px 10px;
+  color: #fff;
+}
+body div.swiper-container div.three div.delite_3 div.delitesub_3 h3 span:nth-child(1) {
+  height: 30px;
+  width: 30px;
+  background: #00628d;
+}
+body div.swiper-container div.three div.delite_3 div.delitesub_3 h3 img {
+  height: 20px;
+  margin-right: 5px;
+}
+body div.swiper-container div.three div.delite_3 div.delitesub_3 p {
+  line-height: 40px;
+  width: 96%;
+  padding: 0px 9px;
+}
+body div.swiper-container div.three div.swiper-up {
+  position: absolute;
+  bottom: 10px;
+  left: 41%;
+  width: 13%;
+}
+body div.swiper-container div.three div.swiper-up img {
+  width: 100%;
+}
+body div.swiper-container div.four {
+  position: relative;
+  background: url(../images/bg.png);
+}
+body div.swiper-container div.four img.bg {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0xp;
+}
+body div.swiper-container div.four div.tack_4 {
+  height: 67px;
+  width: 64%;
+  position: absolute;
+  top: 7%;
+  left: 32%;
+}
+body div.swiper-container div.four div.tack_4 p {
+  line-height: 63px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-size: 20px;
+}
+body div.swiper-container div.four div.tack_5 {
+  height: 67px;
+  width: 64%;
+  position: absolute;
+  top: 23%;
+  left: 32%;
+}
+body div.swiper-container div.four div.tack_5 p {
+  line-height: 63px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-size: 20px;
+}
+body div.swiper-container div.four div.tack_6 {
+  height: 67px;
+  width: 65%;
+  position: absolute;
+  top: 40%;
+  left: 32%;
+}
+body div.swiper-container div.four div.tack_6 p {
+  line-height: 63px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-size: 20px;
+}
+body div.swiper-container div.four div.delite_4 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  transform: scale(0);
+  background: #333;
+}
+body div.swiper-container div.four div.delite_4 div {
+  background: #fff url(../images/bg.png);
+  width: 90%;
+  height: 89%;
+  margin: 10% 5%;
+}
+body div.swiper-container div.four div.delite_4 div.delitesub_4 h3 {
+  height: 30px;
+  width: 100%;
+  position: relative;
+  background: #0092D3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body div.swiper-container div.four div.delite_4 div.delitesub_4 h3 span {
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px 10px;
+  color: #fff;
+}
+body div.swiper-container div.four div.delite_4 div.delitesub_4 h3 span:nth-child(1) {
+  height: 30px;
+  width: 30px;
+  background: #00628d;
+}
+body div.swiper-container div.four div.delite_4 div.delitesub_4 h3 img {
+  height: 20px;
+  margin-right: 5px;
+}
+body div.swiper-container div.four div.delite_4 div.delitesub_4 p {
+  line-height: 40px;
+  width: 96%;
+  padding: 0px 9px;
+}
+body div.swiper-container div.four div.delite_5 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  transform: scale(0);
+  background: #333;
+}
+body div.swiper-container div.four div.delite_5 div {
+  background: #fff url(../images/bg.png);
+  width: 90%;
+  height: 89%;
+  margin: 10% 5%;
+}
+body div.swiper-container div.four div.delite_5 div.delitesub_5 h3 {
+  height: 30px;
+  width: 100%;
+  position: relative;
+  background: #0092D3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body div.swiper-container div.four div.delite_5 div.delitesub_5 h3 span {
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px 10px;
+  color: #fff;
+}
+body div.swiper-container div.four div.delite_5 div.delitesub_5 h3 span:nth-child(1) {
+  height: 30px;
+  width: 30px;
+  background: #00628d;
+}
+body div.swiper-container div.four div.delite_5 div.delitesub_5 h3 img {
+  height: 20px;
+  margin-right: 5px;
+}
+body div.swiper-container div.four div.delite_5 div.delitesub_5 p {
+  line-height: 40px;
+  width: 96%;
+  padding: 0px 9px;
+}
+body div.swiper-container div.four div.delite_6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  transform: scale(0);
+  background: #333;
+}
+body div.swiper-container div.four div.delite_6 div {
+  background: #fff url(../images/bg.png);
+  width: 90%;
+  height: 89%;
+  margin: 10% 5%;
+}
+body div.swiper-container div.four div.delite_6 div.delitesub_6 h3 {
+  height: 30px;
+  width: 100%;
+  position: relative;
+  background: #0092D3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body div.swiper-container div.four div.delite_6 div.delitesub_6 h3 span {
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px 10px;
+  color: #fff;
+}
+body div.swiper-container div.four div.delite_6 div.delitesub_6 h3 span:nth-child(1) {
+  height: 30px;
+  width: 30px;
+  background: #00628d;
+}
+body div.swiper-container div.four div.delite_6 div.delitesub_6 h3 img {
+  height: 20px;
+  margin-right: 5px;
+}
+body div.swiper-container div.four div.delite_6 div.delitesub_6 p {
+  line-height: 40px;
+  width: 96%;
+  padding: 0px 9px;
+}
+body div.swiper-container div.four div.swiper-up {
+  position: absolute;
+  bottom: 10px;
+  left: 41%;
+  width: 13%;
+}
+body div.swiper-container div.four div.swiper-up img {
+  width: 100%;
+}
+body div.swiper-container div.five {
+  position: relative;
+  background: url(../images/bg.png);
+}
+body div.swiper-container div.five div.bg {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+body div.swiper-container div.five div.bg img {
+  width: 100%;
+}
+body div.swiper-container div.five div.head {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+body div.swiper-container div.five div.head img {
+  width: 100%;
+}
+body div.swiper-container div.five div.infor {
+  width: 100%;
+  height: 64%;
+  position: absolute;
+  top: 36%;
+  left: 0px;
+  background: #28a7e1;
+}
+body div.swiper-container div.five div.infor p {
+  line-height: 40px;
+  color: #fff;
+  font-size: 18px;
+  padding: 0px 10px;
+}
+body div.swiper-container div.five div.swiper-up {
+  position: absolute;
+  bottom: 10px;
+  left: 41%;
+  width: 13%;
+}
+body div.swiper-container div.five div.swiper-up img {
+  width: 100%;
+}
+body div.swiper-container div.six {
+  background: #014c6d;
+  position: relative;
+}
+body div.swiper-container div.six div.bg {
+  width: 74%;
+  position: absolute;
+  top: 20%;
+  left: 14%;
+}
+body div.swiper-container div.six div.bg img {
+  width: 100%;
+}
+body #music {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  height: 35px;
+  width: 35px;
+  z-index: 999;
+}
+body #music img {
+  width: 100%;
+}
+/*# sourceMappingURL=index.css.map */
